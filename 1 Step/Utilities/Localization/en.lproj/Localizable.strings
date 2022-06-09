@@ -1,0 +1,365 @@
+/* 
+  OneSLocalization.strings
+  1 Step
+
+  Created by Kai Zheng on 24.11.20.
+  
+*/
+
+// Words ------------------------------------------------------------------
+
+goals           = "Goals";
+active          = "Active";
+reached         = "Reached";
+profile         = "Profile";
+edit            = "Edit";
+accomplishments = "Accomplishments";
+app             = "App";
+about           = "About";
+settings        = "Settings";
+dataAndPrivacy  = "Data & Privacy";
+help            = "Help";
+share           = "Share";
+requestFeatures = "Ideas for new Updates";
+rateOnAppStore  = "Rate us on the App Store";
+sendFeedback    = "Send your Feedback";
+website         = "Website";
+instagram       = "Instagram";
+vfdCollective   = "The VFD Collective";
+plantTree       = "Plant a Tree";
+premium         = "Premium";
+language        = "Language";
+english         = "English";
+german          = "German";
+appearance      = "Appearance";
+mirrorDevice    = "Mirror Device";
+light           = "Light";
+dark            = "Dark";
+theme           = "Theme";
+water           = "Water";
+earth           = "Earth";
+air             = "Air";
+notifications   = "Notifications";
+iCloudSync      = "iCloud sync";
+exportData      = "Export your data";
+resetAllData    = "Reset all data";
+privacyPolicy   = "Privacy policy";
+summit          = "Summit";
+milestone       = "Milestone";
+goal            = "Goal";
+selectUnit      = "Select unit";
+unit            = "Unit";
+select          = "Select";
+on              = "On";
+off             = "Off";
+yes             = "Yes";
+no              = "No";
+credits         = "Credits";
+terms           = "Terms";
+current         = "Current";
+reminders       = "Reminders";
+newReminder     = "New Reminder";
+editReminder    = "Edit Reminder";
+atTime          = "At time";
+repeatEvery     = "Repeat every";
+custom          = "Custom";
+plant           = "Plant";
+create          = "Create";
+everyDay        = "Every day";
+time            = "Time";
+ohDeer          = "Oh Deer";
+delete          = "Delete";
+lifetime        = "Lifetime";
+note            = "Note";
+thankYou        = "Thank you";
+start           = "Start";
+howItWorks      = "How it works";
+examples        = "Examples";
+tutorial        = "Tutorial";
+selectMountain  = "Select mountain";
+selectColor     = "Select color";
+goalBasics      = "Goal basics";
+error           = "Error";
+unknownError    = "Unknown Error";
+hey             = "Hey";
+hi              = "Hi";
+goodMorning     = "Good morning";
+goodAfternoon   = "Good afternoon";
+goodEvening     = "Good evening";
+contactMe       = "Contact me";
+how             = "How";
+what            = "What";
+you             = "You";
+yourName        = "Your name";
+name            = "Name";
+welcome         = "Welcome";
+step            = "Step";
+of              = "Of";
+ok              = "Ok";
+congrats        = "Congrats";
+complete        = "Complete";
+awesome         = "Awesome";
+great           = "Great";
+amazing         = "Amazing";
+incredible      = "Incredible";
+reset           = "Reset";
+dangerZone      = "Danger zone";
+touchID         = "Touch ID";
+faceID          = "Face ID";
+meditate        = "Meditate";
+continue        = "Continue";
+youAreAwesome   = "You are awesome";
+feedback        = "Feedback";
+featuresRequest = "Update ideas";
+contactRequest  = "Contact";
+givingBack      = "Giving back";
+appIcon         = "App Icon";
+
+
+// Special ------------------------------------------------------------------
+// Step ----------------------------------------------
+
+step.category_duration  = "duration";
+step.category_distance  = "distance";
+step.category_reps      = "reps";
+
+step.unit_h             = "h";
+step.unit_min           = "min";
+step.unit_km            = "km";
+step.unit_m             = "m";
+step.unit_miles         = "miles";
+step.unit_feets         = "feets";
+step.unit_times         = "times";
+step.unit_pages         = "pages";
+step.unit_steps         = "steps";
+step.unit_decisions     = "decisions";
+step.unit_trees         = "trees";
+step.unit_books         = "books";
+step.unit_custom        = "custom";
+
+
+// Texts ------------------------------------------------------------------
+// ProfileScreen ----------------------------------------------
+
+profile.enterNewName                = "Enter a new name";
+profile.made                        = "Made in Zurich, Switzerland";
+profile.version                     = "Version";
+profile.accomplishment_steps        = "Steps in total";
+profile.accomplishment_milestones   = "Milestones reached";
+profile.accomplishment_goals        = "Goals completed";
+profile.reset_confirmMessage        = "Are you sure?\n\nThis action cannot be undone.\nConfirm with typing in: Irreversible.";
+profile.reset_confirmInput          = "Irreversible";
+
+//GoalChange ----------------------------------------------
+
+goalChange.enterCustomUnit  = "Enter your unit.";
+goalChange.confirmDelete    = "Are you sure?\n\nThis action cannot be undone.\nConfirm with your Goal.";
+
+
+//GoalError ----------------------------------------------
+
+goalError.goalNameEmpty                 = "What do you want to achieve?\n\nPlease enter a goal.";
+goalError.stepsNeededEmpty              = "How many steps does it take to reach your goal?\n\nPlease enter a number.";
+goalError.stepUnitEmpty                 = "What do you want to track?\n\nPlease select a unit.";
+goalError.stepCustomUnitEmpty           = "You have entered no custom unit.\n\nMake sure you have entered something.";
+goalError.stepsNeededTooLittle          = "Your goal has too little steps to take.\n\nMinimum steps:";
+goalError.stepsNeededTooMany            = "Your goal has too many steps to take.\n\nMaximum steps:";
+
+goalError.currentBelowNeededStepUnits   = "You can't go below your current progress.";
+goalError.changeOfCategory              = "Changing step category is not possible.\nCreate a new goal instead.";
+goalError.changeOfDistanceUnitsSystem   = "You can't change between metric and imperial units.\nCreate a new goal instead.";
+
+goalError.negativeSteps                 = "You can't have a negative progress.";
+
+goalError.unknown                       = "Failed with an unknown error.\n\nConsider restarting the app.";
+
+
+//Premium ----------------------------------------------
+
+premium.achieveEveryGoal    = "Achieve every goal";
+premium.unlimitedGoals      = "Create unlimited goals";
+premium.futureUpdates       = "Support new updates";
+premium.realTree            = "Plant a real tree";
+premium.youChoose           = "You choose the price";
+premium.restore             = "Restore purchase";
+premium.noteTextPassage     = "This purchase will grant you access to all current and upcoming features. No subscription, you only pay once and it's forever yours.";
+premium.thankYouText        = "you have successfully unlocked 1 Step Premium.\n\nWe wish you a wonderful experience!";
+
+
+//Error ----------------------------------------------
+
+error.mocSave               = "There was a problem saving your data but it is not your fault. Try to do it again or restart the app.";
+error.noAccessPhotoLibrary  = "Please grant permission to access the photo library.";
+error.noAccessNotification  = "Please grant permission for notifications.";
+error.iCloudNotAvailable    = "Make sure that iCloud is turned on for 1 Step inside your device settings.";
+error.noInternetConnection  = "Seems like you are not connected to the internet.\nMake sure that you have an active internet connection.";
+
+
+//Notification ----------------------------------------------
+
+notification.goal_bodyText              = "It's time to take one more step.";
+notification.goal_errorNoDaySelected    = "Please select at least one repeating day.";
+
+
+//Help ----------------------------------------------
+
+help.frequentlyAsked    = "Frequently asked";
+help.question1_title    = "Can I redo added steps?";
+help.question1_text     =
+"Yes, but not directly. You would have to take the same amount of negative steps.
+Negative steps are on the top of the wheel you use to add steps.
+By scrolling all the way to the top, I am sure you will find them.";
+help.question2_title    = "Can I restart my goal?";
+help.question2_text     =
+"Not directly.
+You would have to delete your goal and create it again.";
+help.question3_title    = "Can I change the order of my goals?";
+help.question3_text     =
+"Sure. You can change the order of active and reached goals by long pressing on any goal item.
+This will activate drag and drop.";
+help.question4_title    = "How are steps calculated?";
+help.question4_text     =
+"Internally, we are distinguishing between stepUnits and steps.
+The amount of stepUnits correspond to the amount of steps you have to take in order to reach your goal. It is defined by the user.
+Steps on the other hand are calculated from stepUnits with a specific ratio. This makes sure that independent from your stepUnits, every goal you create will have at least ten steps to take and at most thousand to take.
+
+Example:
+Meditate 3 hours.
+This goal would have 3 stepUnits and a ratio of 60, leading to 180 steps to take in total.
+Each step would correspond to 1 minute.";
+help.question5_title    = "Are there any statistics?";
+help.question5_text     =
+"Soon. Every step you take already saves all necessary information to display statistics.";
+help.question6_title    = "Is my data safe?";
+help.question6_text     =
+"Your data is by default only saved locally on your device.
+
+For extra safety, you could activate iCloud synchronization inside Data & Privacy.
+This will automatically synchronize and store all your data inside iCloud as well.";
+help.bottomText         = "You didn’t find the answer to your question?\nFeel free to contact me!";
+
+
+//How it works ----------------------------------------------
+
+howItWorks.textPassageOne1      = "1 Step is about reaching your goals smartly and with ease.";
+howItWorks.textPassageOne2      = "The idea is to break your goals into tiny steps. A tiny step makes it more tangible and easier to act on.";
+howItWorks.textPassageOne3      = "It's about minimizing the amount of discipline and motivation needed to take action towards your goal.";
+howItWorks.textPassageOne4      = "Let's say you want to lose weight. That could become 100 miles of running in total instead.";
+howItWorks.textPassageOne5      = "Each step would be equivalent to running just a few miles.";
+    
+howItWorks.exampleOne1          = "Lose weight";
+howItWorks.exampleOne2          = "Run 100 miles in total";
+    
+howItWorks.textPassageTwo1      = "Of course, be as creative as you want. Choose whatever motivates you the most!";
+    
+howItWorks.exampleTwo1          = "Lose weight";
+howItWorks.exampleTwo2          = "Run 100 miles";
+howItWorks.exampleTwo3          = "Swim 30 times";
+howItWorks.exampleTwo4          = "Visit 50 parks";
+howItWorks.exampleTwo5          = "Hike 12 mountains in the Swiss alps";
+
+howItWorks.textPassageThree1    = "As you have achieved these indirect goals, you will certainly have lost some weight.";
+howItWorks.textPassageThree2    = "No need for your goals to always be in the foreground of your daily life.";
+howItWorks.textPassageThree3    = "You take tiny steps whenever you want and track them using 1 Step.";
+howItWorks.textPassageThree4    = "These steps will have a compound effect over time. You will be surprised by how effective this method is.";
+
+
+//Examples ----------------------------------------------
+
+examples.oneTitle    = "Lose weight";
+examples.oneText1    = "Lose weight";
+examples.oneText2    = "Lose 20 pounds";
+examples.oneText3    = "Exercise more often";
+examples.oneText4    = "Run 100 miles";
+examples.oneText5    = "Swim 30 times";
+examples.oneText6    = "Run to 50 parks";
+examples.oneText7    = "Hike 12 mountains";
+
+examples.twoTitle    = "Become more self-aware";
+examples.twoText1    = "Become more self-aware";
+examples.twoText2    = "Practice mindfulness";
+examples.twoText3    = "Start meditating regularly";
+examples.twoText4    = "Meditate 50 hours";
+examples.twoText5    = "Meditate 100 times";
+examples.twoText6    = "Breathe in deeply 1000 times";
+examples.twoText7    = "Acknowledge the now 500 times";
+
+examples.threeTitle  = "Help the environment";
+examples.threeText1  = "Help the environment";
+examples.threeText2  = "Plant 100 trees";
+examples.threeText3  = "Protect rainforest 10 square miles";
+examples.threeText4  = "Collect trash 800 times";
+examples.threeText5  = "Eat a vegan meal 100 times";
+
+examples.fourTitle   = "Get better at guitar";
+examples.fourText1   = "Get better at guitar";
+examples.fourText2   = "Play 100 new songs";
+examples.fourText3   = "Play 100 hours";
+examples.fourText4   = "Watch 10 tutorials";
+
+examples.fiveTitle   = "Be more happy";
+examples.fiveText1   = "Be more happy";
+examples.fiveText2   = "Give back and help others";
+examples.fiveText3   = "Collect trash 800 times";
+examples.fiveText4   = "Rescue an insect 300 times";
+examples.fiveText5   = "Be helpful to a friend 100 times";
+
+examples.sixTitle    = "Stop procrastination";
+examples.sixText1    = "Stop procrastination";
+examples.sixText2    = "Start doing the right thing instantly";
+examples.sixText3    = "Train my instant decision making muscle";
+examples.sixText4    = "Make 1000 instant decisions";
+examples.sixText5    = "Journal on progress 100 times";
+
+examples.sevenTitle  = "Learn French";
+examples.sevenText1  = "Learn French";
+examples.sevenText2  = "Interact more frequently with French";
+examples.sevenText3  = "Watch 100 movies in French";
+examples.sevenText4  = "Listen to French podcasts 500 times";
+
+examples.eightTitle  = "Expand my knowledge";
+examples.eightText1  = "Expand my knowledge";
+examples.eightText2  = "Read more books";
+examples.eightText3  = "Read 500 pages";
+examples.eightText4  = "Read 200 times";
+
+
+//First Start ----------------------------------------------
+
+firstStart.whatsYourName    = "Hi 🙂\nWhat’s your name?";
+firstStart.howShould        = "How should we call you?";
+firstStart.excited          = "we wish you a wonderful experience with 1 Step.";
+
+
+//AddStepsAccomplishment ----------------------------------------------
+
+addStepsAccomplishment.completedText        = "You are on the peak of the mountain. 🎊\n\nAccomplishing a total of";
+addStepsAccomplishment.milestoneTextPre     = "You have reached";
+addStepsAccomplishment.milestoneTextPost    = "";
+
+
+//Biometrics ----------------------------------------------
+
+biometrics.reason_authorizing       = "To continue, you need to authorize yourself.";
+biometrics.reason_requestPermission = "To activate biometric authentication, we need to authorize you.";
+biometrics.error_invalid            = "Could not enable biometric authentication.";
+biometrics.error_unavailable        = "failed. Make sure that you have your biometrics setup inside settings and turned on for 1 Step.";
+
+
+//Mail ----------------------------------------------
+
+mail.sent_thankYouText          = "1 Step was made with the help of your feedback.\n\nYou are awesome!";
+mail.error_unableToSendMails    = "Unable to send mails.\n\nPlease make sure that you have an active internet connection.";
+mail.error_failedToSend         = "Something went wrong. Your mail could not be sent.";
+
+
+//Share ----------------------------------------------
+
+share.message                   = "Hi, I just wanted to tell you about 1 Step.";
+
+
+//Giving back ----------------------------------------------
+
+givingBack.textPassage1 = "Contributing to the greater good is the most important thing to me.";
+givingBack.textPassage2 = "For every single purchase you make, we will together plant one tree!";
+
