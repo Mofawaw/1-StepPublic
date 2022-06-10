@@ -50,6 +50,7 @@ struct OneSPicker: View {
                     }
                 }
             }
+            .pickerStyle(InlinePickerStyle())
             .simultaneousGesture(
                 DragGesture().onChanged { _ in stopped = false }
             )

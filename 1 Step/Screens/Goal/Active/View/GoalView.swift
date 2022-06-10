@@ -44,6 +44,7 @@ struct GoalView: View {
                         .offset(x: goalModel.goalContentDragOffset)
                     }
                     .onReceive(goalModel.setScrollPosition) { position in
+                        guard position != .current else { return } // <-- Scrolls to wrong position (Known bug in iOS 15)
                         withAnimation { scrollProxy.scrollTo(position, anchor: .bottom) }
                     }
                 }
